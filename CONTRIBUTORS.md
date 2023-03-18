@@ -149,6 +149,8 @@ cl# CONTRIBUTORS
 
 - [@PriyanshuSinghR](https://github.com/PriyanshuSinghR)
 
+- [@Mxrhodes] (https://github.com/Mxrhodes)
+
 - [@chaossaver103](https://github.com/chaossaver103)
 
 -[@jlarsen0206](https://github.com/jlarsen0206)
